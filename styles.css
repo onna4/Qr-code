@@ -3,6 +3,14 @@
     margin: 0;
     box-sizing: border-box;
 }
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    background-color: var(--Light-gray);
+}
+  .attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
 :root {
     --White: hsl(0, 0%, 100%);
     --Light-gray: hsl(212, 45%, 89%);
@@ -12,7 +20,7 @@
 }
 .first {
     background-color: var(--Light-gray);
-    width: 90%;
+    width: 95 vw;
     min-height: 100vh;
     display: grid;
     place-content: center;
@@ -20,6 +28,7 @@
 .second {
     background-color: var(--White);
     max-width: 320px;
+    max-height: 500px;
     padding: 13px;
     color: var(--Grayish-blue);
     border-radius: 12px;
@@ -43,11 +52,6 @@ img {
 }
 @media (min-width: 768px){
     .second {
-        height: 58%;
-    }
-}
-@media (min-width: 1200px){
-    .second {
-        height: 80%;
+        max-height: 580px;
     }
 }
