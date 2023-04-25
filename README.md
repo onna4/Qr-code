@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qrcode-1lnTUm8RKN)
-- Live Site URL: [Add live site URL here](https://onna4.github.io/Qr-code/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/qrcode-1lnTUm8RKN)
+- Live Site URL: [Live site URL](https://onna4.github.io/Qr-code/)
 
 ## My process
 
